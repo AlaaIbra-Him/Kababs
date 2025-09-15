@@ -26,5 +26,4 @@
 - **clip-path** – used to create angled sections or artistic layouts
 - **HTML5** – structure and semantics
 - **CSS3** – styling and layout
-## 📁 Project Structure
 
