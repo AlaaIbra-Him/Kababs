@@ -5,7 +5,7 @@
 ---
 ## 🌟 Overview
 
-**Kababs** is a modern and fully responsive landing page for a restaurant or food service, built using **HTML5** and **CSS3**. The design features creative visual effects using `clip-path`, custom shadows, and smooth layouts to create a stylish, appetizing presentation.
+**Kababs** is a modern landing page for a restaurant or food service, built using **HTML5** and **CSS3**. The design features creative visual effects using `clip-path`, custom shadows, and smooth layouts to create a stylish, appetizing presentation.
 
 ---
 
